@@ -1,4 +1,4 @@
- #ATM-simulator
+# ATM-simulator
 ## Exercise on UI functionality
 
 
