@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atm-simulator3/static/css/main.8e428dce.chunk.css",
+    "main.js": "/atm-simulator3/static/js/main.12dbb63b.chunk.js",
+    "main.js.map": "/atm-simulator3/static/js/main.12dbb63b.chunk.js.map",
+    "runtime-main.js": "/atm-simulator3/static/js/runtime-main.0ed16406.js",
+    "runtime-main.js.map": "/atm-simulator3/static/js/runtime-main.0ed16406.js.map",
+    "static/js/2.e7fe4144.chunk.js": "/atm-simulator3/static/js/2.e7fe4144.chunk.js",
+    "static/js/2.e7fe4144.chunk.js.map": "/atm-simulator3/static/js/2.e7fe4144.chunk.js.map",
+    "static/js/3.b6b3e7e5.chunk.js": "/atm-simulator3/static/js/3.b6b3e7e5.chunk.js",
+    "static/js/3.b6b3e7e5.chunk.js.map": "/atm-simulator3/static/js/3.b6b3e7e5.chunk.js.map",
+    "index.html": "/atm-simulator3/index.html",
+    "static/css/main.8e428dce.chunk.css.map": "/atm-simulator3/static/css/main.8e428dce.chunk.css.map",
+    "static/js/2.e7fe4144.chunk.js.LICENSE.txt": "/atm-simulator3/static/js/2.e7fe4144.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ed16406.js",
+    "static/js/2.e7fe4144.chunk.js",
+    "static/css/main.8e428dce.chunk.css",
+    "static/js/main.12dbb63b.chunk.js"
+  ]
+}
