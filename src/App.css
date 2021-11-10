@@ -1,0 +1,31 @@
+body {
+  background-color:whitesmoke;
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: aqua;
+  text-align: center;
+  margin: 0;
+}
+
+code {
+  font-family: "Monaco, Courier New, monospace;"
+}
+
+.App {
+  
+  background-color: whitesmoke;
+  padding: 100px;
+  
+}
+
+#select-option {
+  width : 200px;
+  height : 25px;
+}
+
+#balance-display {
+  margin : 70px;
+}
+
+#note {
+  color : #1e90ff
+}
